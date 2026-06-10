@@ -9,7 +9,7 @@ import json
 #aasdaasdasdas
 #ЙУХАН111111
 SETTINGS_FILE = "settings.json"
-####12232
+####12232 213245
 def load_settings():
     if os.path.exists(SETTINGS_FILE):
         try:
