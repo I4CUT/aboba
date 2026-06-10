@@ -7,9 +7,9 @@ import json
 #"фывфывфывфы"
 #qwewqewqewqe
 #aasdaasdasdas
-#ЙУХАН
+#ЙУХАН111111
 SETTINGS_FILE = "settings.json"
-
+####12232
 def load_settings():
     if os.path.exists(SETTINGS_FILE):
         try:
