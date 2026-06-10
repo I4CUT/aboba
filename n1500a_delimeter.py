@@ -5,6 +5,7 @@ import os
 from pathlib import Path
 import json
 #"фывфывфывфы"
+#qwewqewqewqe
 SETTINGS_FILE = "settings.json"
 
 def load_settings():
