@@ -4,7 +4,7 @@ import pandas as pd
 import os
 from pathlib import Path
 import json
-
+#"фывфывфывфы"
 SETTINGS_FILE = "settings.json"
 
 def load_settings():
