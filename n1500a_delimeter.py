@@ -7,6 +7,7 @@ import json
 #"фывфывфывфы"
 #qwewqewqewqe
 #aasdaasdasdas
+#ЙУХАН
 SETTINGS_FILE = "settings.json"
 
 def load_settings():
