@@ -9,7 +9,11 @@ import json
 #aasdaasdasdas
 #ЙУХАН111111
 SETTINGS_FILE = "settings.json"
+<<<<<<< Updated upstream
 ####12232
+=======
+####12232 213245 4324332
+>>>>>>> Stashed changes
 def load_settings():
     if os.path.exists(SETTINGS_FILE):
         try:
